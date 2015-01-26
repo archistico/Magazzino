@@ -1,0 +1,9 @@
+D:\Programmazione\00Github\Magazzino\Magazzino\Magazzino\bin\Debug\Magazzino.exe
+D:\Programmazione\00Github\Magazzino\Magazzino\Magazzino\bin\Debug\Magazzino.pdb
+D:\Programmazione\00Github\Magazzino\Magazzino\Magazzino\bin\Debug\Magazzino.xml
+D:\Programmazione\00Github\Magazzino\Magazzino\Magazzino\obj\Debug\Magazzino.Resources.resources
+D:\Programmazione\00Github\Magazzino\Magazzino\Magazzino\obj\Debug\Magazzino.vbproj.GenerateResource.Cache
+D:\Programmazione\00Github\Magazzino\Magazzino\Magazzino\obj\Debug\Magazzino.exe
+D:\Programmazione\00Github\Magazzino\Magazzino\Magazzino\obj\Debug\Magazzino.xml
+D:\Programmazione\00Github\Magazzino\Magazzino\Magazzino\obj\Debug\Magazzino.pdb
+D:\Programmazione\00Github\Magazzino\Magazzino\Magazzino\obj\Debug\Magazzino.Form1.resources
